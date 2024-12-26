@@ -1,0 +1,51 @@
+C:\Users\90505\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Ekler\Masaüstü\PROJECT-HOMEWORK\OOP-Final-Projesi\OOP-Final-Projesi\bin\Debug\net6.0-windows\OOP-Final-Projesi.exe
+C:\Users\90505\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Ekler\Masaüstü\PROJECT-HOMEWORK\OOP-Final-Projesi\OOP-Final-Projesi\bin\Debug\net6.0-windows\OOP-Final-Projesi.deps.json
+C:\Users\90505\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Ekler\Masaüstü\PROJECT-HOMEWORK\OOP-Final-Projesi\OOP-Final-Projesi\bin\Debug\net6.0-windows\OOP-Final-Projesi.runtimeconfig.json
+C:\Users\90505\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Ekler\Masaüstü\PROJECT-HOMEWORK\OOP-Final-Projesi\OOP-Final-Projesi\bin\Debug\net6.0-windows\OOP-Final-Projesi.dll
+C:\Users\90505\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Ekler\Masaüstü\PROJECT-HOMEWORK\OOP-Final-Projesi\OOP-Final-Projesi\bin\Debug\net6.0-windows\OOP-Final-Projesi.pdb
+C:\Users\90505\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Ekler\Masaüstü\PROJECT-HOMEWORK\OOP-Final-Projesi\OOP-Final-Projesi\obj\Debug\net6.0-windows\OOP-Final-Projesi.csproj.AssemblyReference.cache
+C:\Users\90505\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Ekler\Masaüstü\PROJECT-HOMEWORK\OOP-Final-Projesi\OOP-Final-Projesi\obj\Debug\net6.0-windows\OOP_Final_Projesi.BireyselMusteriKayit.resources
+C:\Users\90505\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Ekler\Masaüstü\PROJECT-HOMEWORK\OOP-Final-Projesi\OOP-Final-Projesi\obj\Debug\net6.0-windows\OOP_Final_Projesi.Form1.resources
+C:\Users\90505\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Ekler\Masaüstü\PROJECT-HOMEWORK\OOP-Final-Projesi\OOP-Final-Projesi\obj\Debug\net6.0-windows\OOP_Final_Projesi.HavaleYap.resources
+C:\Users\90505\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Ekler\Masaüstü\PROJECT-HOMEWORK\OOP-Final-Projesi\OOP-Final-Projesi\obj\Debug\net6.0-windows\OOP_Final_Projesi.HesapAcma.resources
+C:\Users\90505\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Ekler\Masaüstü\PROJECT-HOMEWORK\OOP-Final-Projesi\OOP-Final-Projesi\obj\Debug\net6.0-windows\OOP_Final_Projesi.Hesaplarım.resources
+C:\Users\90505\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Ekler\Masaüstü\PROJECT-HOMEWORK\OOP-Final-Projesi\OOP-Final-Projesi\obj\Debug\net6.0-windows\OOP_Final_Projesi.HesapOzeti.resources
+C:\Users\90505\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Ekler\Masaüstü\PROJECT-HOMEWORK\OOP-Final-Projesi\OOP-Final-Projesi\obj\Debug\net6.0-windows\OOP_Final_Projesi.Properties.Resources.resources
+C:\Users\90505\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Ekler\Masaüstü\PROJECT-HOMEWORK\OOP-Final-Projesi\OOP-Final-Projesi\obj\Debug\net6.0-windows\OOP_Final_Projesi.SeciliHesap.resources
+C:\Users\90505\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Ekler\Masaüstü\PROJECT-HOMEWORK\OOP-Final-Projesi\OOP-Final-Projesi\obj\Debug\net6.0-windows\OOP_Final_Projesi.TicariMusteriKayit.resources
+C:\Users\90505\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Ekler\Masaüstü\PROJECT-HOMEWORK\OOP-Final-Projesi\OOP-Final-Projesi\obj\Debug\net6.0-windows\OOP-Final-Projesi.csproj.GenerateResource.cache
+C:\Users\90505\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Ekler\Masaüstü\PROJECT-HOMEWORK\OOP-Final-Projesi\OOP-Final-Projesi\obj\Debug\net6.0-windows\OOP-Final-Projesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90505\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Ekler\Masaüstü\PROJECT-HOMEWORK\OOP-Final-Projesi\OOP-Final-Projesi\obj\Debug\net6.0-windows\OOP-Final-Projesi.AssemblyInfoInputs.cache
+C:\Users\90505\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Ekler\Masaüstü\PROJECT-HOMEWORK\OOP-Final-Projesi\OOP-Final-Projesi\obj\Debug\net6.0-windows\OOP-Final-Projesi.AssemblyInfo.cs
+C:\Users\90505\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Ekler\Masaüstü\PROJECT-HOMEWORK\OOP-Final-Projesi\OOP-Final-Projesi\obj\Debug\net6.0-windows\OOP-Final-Projesi.csproj.CoreCompileInputs.cache
+C:\Users\90505\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Ekler\Masaüstü\PROJECT-HOMEWORK\OOP-Final-Projesi\OOP-Final-Projesi\obj\Debug\net6.0-windows\OOP-Final-Projesi.dll
+C:\Users\90505\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Ekler\Masaüstü\PROJECT-HOMEWORK\OOP-Final-Projesi\OOP-Final-Projesi\obj\Debug\net6.0-windows\refint\OOP-Final-Projesi.dll
+C:\Users\90505\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Ekler\Masaüstü\PROJECT-HOMEWORK\OOP-Final-Projesi\OOP-Final-Projesi\obj\Debug\net6.0-windows\OOP-Final-Projesi.pdb
+C:\Users\90505\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Ekler\Masaüstü\PROJECT-HOMEWORK\OOP-Final-Projesi\OOP-Final-Projesi\obj\Debug\net6.0-windows\OOP-Final-Projesi.genruntimeconfig.cache
+C:\Users\90505\OneDrive - BAKIRÇAY ÜNİVERSİTESİ\Ekler\Masaüstü\PROJECT-HOMEWORK\OOP-Final-Projesi\OOP-Final-Projesi\obj\Debug\net6.0-windows\ref\OOP-Final-Projesi.dll
+C:\Users\betül\Desktop\OOP-Final-Projesi (1)\OOP-Final-Projesi\OOP-Final-Projesi\bin\Debug\net6.0-windows\OOP-Final-Projesi.exe
+C:\Users\betül\Desktop\OOP-Final-Projesi (1)\OOP-Final-Projesi\OOP-Final-Projesi\bin\Debug\net6.0-windows\OOP-Final-Projesi.deps.json
+C:\Users\betül\Desktop\OOP-Final-Projesi (1)\OOP-Final-Projesi\OOP-Final-Projesi\bin\Debug\net6.0-windows\OOP-Final-Projesi.runtimeconfig.json
+C:\Users\betül\Desktop\OOP-Final-Projesi (1)\OOP-Final-Projesi\OOP-Final-Projesi\bin\Debug\net6.0-windows\OOP-Final-Projesi.dll
+C:\Users\betül\Desktop\OOP-Final-Projesi (1)\OOP-Final-Projesi\OOP-Final-Projesi\bin\Debug\net6.0-windows\OOP-Final-Projesi.pdb
+C:\Users\betül\Desktop\OOP-Final-Projesi (1)\OOP-Final-Projesi\OOP-Final-Projesi\obj\Debug\net6.0-windows\OOP-Final-Projesi.csproj.AssemblyReference.cache
+C:\Users\betül\Desktop\OOP-Final-Projesi (1)\OOP-Final-Projesi\OOP-Final-Projesi\obj\Debug\net6.0-windows\OOP_Final_Projesi.BireyselMusteriKayit.resources
+C:\Users\betül\Desktop\OOP-Final-Projesi (1)\OOP-Final-Projesi\OOP-Final-Projesi\obj\Debug\net6.0-windows\OOP_Final_Projesi.Form1.resources
+C:\Users\betül\Desktop\OOP-Final-Projesi (1)\OOP-Final-Projesi\OOP-Final-Projesi\obj\Debug\net6.0-windows\OOP_Final_Projesi.GirisYap.resources
+C:\Users\betül\Desktop\OOP-Final-Projesi (1)\OOP-Final-Projesi\OOP-Final-Projesi\obj\Debug\net6.0-windows\OOP_Final_Projesi.HavaleYap.resources
+C:\Users\betül\Desktop\OOP-Final-Projesi (1)\OOP-Final-Projesi\OOP-Final-Projesi\obj\Debug\net6.0-windows\OOP_Final_Projesi.HesapAcma.resources
+C:\Users\betül\Desktop\OOP-Final-Projesi (1)\OOP-Final-Projesi\OOP-Final-Projesi\obj\Debug\net6.0-windows\OOP_Final_Projesi.Hesaplarım.resources
+C:\Users\betül\Desktop\OOP-Final-Projesi (1)\OOP-Final-Projesi\OOP-Final-Projesi\obj\Debug\net6.0-windows\OOP_Final_Projesi.HesapOzeti.resources
+C:\Users\betül\Desktop\OOP-Final-Projesi (1)\OOP-Final-Projesi\OOP-Final-Projesi\obj\Debug\net6.0-windows\OOP_Final_Projesi.Properties.Resources.resources
+C:\Users\betül\Desktop\OOP-Final-Projesi (1)\OOP-Final-Projesi\OOP-Final-Projesi\obj\Debug\net6.0-windows\OOP_Final_Projesi.SeciliHesap.resources
+C:\Users\betül\Desktop\OOP-Final-Projesi (1)\OOP-Final-Projesi\OOP-Final-Projesi\obj\Debug\net6.0-windows\OOP_Final_Projesi.TicariMusteriKayit.resources
+C:\Users\betül\Desktop\OOP-Final-Projesi (1)\OOP-Final-Projesi\OOP-Final-Projesi\obj\Debug\net6.0-windows\OOP-Final-Projesi.csproj.GenerateResource.cache
+C:\Users\betül\Desktop\OOP-Final-Projesi (1)\OOP-Final-Projesi\OOP-Final-Projesi\obj\Debug\net6.0-windows\OOP-Final-Projesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\betül\Desktop\OOP-Final-Projesi (1)\OOP-Final-Projesi\OOP-Final-Projesi\obj\Debug\net6.0-windows\OOP-Final-Projesi.AssemblyInfoInputs.cache
+C:\Users\betül\Desktop\OOP-Final-Projesi (1)\OOP-Final-Projesi\OOP-Final-Projesi\obj\Debug\net6.0-windows\OOP-Final-Projesi.AssemblyInfo.cs
+C:\Users\betül\Desktop\OOP-Final-Projesi (1)\OOP-Final-Projesi\OOP-Final-Projesi\obj\Debug\net6.0-windows\OOP-Final-Projesi.csproj.CoreCompileInputs.cache
+C:\Users\betül\Desktop\OOP-Final-Projesi (1)\OOP-Final-Projesi\OOP-Final-Projesi\obj\Debug\net6.0-windows\OOP-Final-Projesi.dll
+C:\Users\betül\Desktop\OOP-Final-Projesi (1)\OOP-Final-Projesi\OOP-Final-Projesi\obj\Debug\net6.0-windows\refint\OOP-Final-Projesi.dll
+C:\Users\betül\Desktop\OOP-Final-Projesi (1)\OOP-Final-Projesi\OOP-Final-Projesi\obj\Debug\net6.0-windows\OOP-Final-Projesi.pdb
+C:\Users\betül\Desktop\OOP-Final-Projesi (1)\OOP-Final-Projesi\OOP-Final-Projesi\obj\Debug\net6.0-windows\OOP-Final-Projesi.genruntimeconfig.cache
+C:\Users\betül\Desktop\OOP-Final-Projesi (1)\OOP-Final-Projesi\OOP-Final-Projesi\obj\Debug\net6.0-windows\ref\OOP-Final-Projesi.dll
